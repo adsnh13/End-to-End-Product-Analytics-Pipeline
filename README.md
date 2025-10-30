@@ -18,7 +18,7 @@ This project demonstrates an **end-to-end data analytics workflow** — from dat
 ---
 
 ## 🗂️ Project Structure  
-
+```
 product-analytics-project/
 │
 ├── product_data.ipynb # Data generation and exploration
@@ -33,7 +33,7 @@ product-analytics-project/
 ├── Tall_table.sql # Combined data table query
 │
 └── README.md # Project documentation
-
+```
 
 ---
 
